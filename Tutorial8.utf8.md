@@ -4,7 +4,7 @@ author:
 - familyname: XXXX
   othernames: XXX
   address: Monash Universtidy
-  email: awid0001@student.monash.edu
+  email: XXX
   correspondingauthor: true
   qualifications:  XXX
 - familyname: XXXX
@@ -36,15 +36,7 @@ output:
     toc: false
 ---
 
-```{r , echo = FALSE, message = FALSE, warning = FALSE}
-# Libraries
 
-library(tidyverse)
-library(readr)
-library(kableExtra)
-library(bookdown)
-
-```
 
 
 
@@ -52,11 +44,10 @@ library(bookdown)
 
 \section*{Country XX2 and YY2}
 
-\section*{Country Japan and South Korea}
+\section*{Country XX3 and YY3}
 
 Figute1  table1 with reference
 
 paper reference
-
 
 
