@@ -1,22 +1,22 @@
 ---
 title: "Corona Virus Report"
 author:
-- familyname: XXXX
-  othernames: XXX
-  address: Monash Universtidy
-  email: XXX
+- familyname: Widjaya
+  othernames: Arthur 
+  address: Monash Universtity
+  email: awid0001@student.monash.edu
   correspondingauthor: true
-  qualifications:  XXX
-- familyname: XXXX
-  othernames: Reports
-  address: XXX
-  qualifications: XXX
-- familyname: XXX
-  othernames: XXX
-  address: XXX
-  email: XXX
-  correspondingauthor: true
-  qualifications:  XXX
+- familyname: Zou
+  othernames: Ying
+  address: yzou0014@student.monash.edu
+- familyname: Zhang
+  othernames: LinTian
+  address: Monash Universtity
+  email: ltzha1@student.monash.edu
+- familyname: Wang
+  othernames: HanChen
+  address: Monash Universtity
+  email: Hwang0143@student.monash.edu
 department: Our consultancy \newline add names &\newline add names
 organization: Australian Government COVID19
 bibliography: references.bib
@@ -50,7 +50,7 @@ library(bookdown)
 
 \section*{Country XX1 and YY1"}
 
-\section*{Country XX2 and YY2}
+\section*{Country China and Canada}
 
 \section*{Country XX3 and YY3}
 
