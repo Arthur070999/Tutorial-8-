@@ -50,9 +50,42 @@ library(bookdown)
 
 \section*{Country XX1 and YY1"}
 
+
 \section*{Country XX2 and YY2}
 
 \section*{Country Japan and South Korea}
+
+```{r}
+cases <- read_csv("data/worldwidecases.csv")
+jk <- cases %>% 
+  select(day, 
+         month, 
+         year, 
+         cases, 
+         deaths, 
+         countriesAndTerritories) %>% 
+  filter(countriesAndTerritories == c("Japan", "South_Korea"))
+```
+
+```{r Table, cache = TRUE}
+japan <- jk %>% 
+  filter(countriesAndTerritories == "Japan") %>% 
+  group_by(month) %>% 
+  summarise(jp_cases = sum(cases), jp_deaths = sum(deaths)) 
+
+southkorea <- jk %>% 
+  filter(countriesAndTerritories == "South_Korea", 
+         !month == "12") %>%
+  group_by(month) %>% 
+  summarise(kr_cases = sum(cases), kr_deaths = sum(deaths)) 
+
+Table <- left_join(japan, southkorea, 
+                   by = "month")
+knitr::kable(
+Table, booktabs = TRUE,
+  caption = 'Covid cases and deaths of Japan and South Korea on 2020')
+```
+
 
 Figute1  table1 with reference
 

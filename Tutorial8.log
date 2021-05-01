@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  28 APR 2021 17:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.20)  28 APR 2021 17:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -963,7 +963,110 @@ Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 151.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 151.
 
-! LaTeX Error: File `mathtools.sty' not found.
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mathtools/mathtools.
+sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count418
+\calc@Bcount=\count419
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
+\calc@Askip=\skip92
+\calc@Bskip=\skip93
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count420
+\calc@Cskip=\skip94
+)
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mathtools/mhsetup.st
+y
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count421
+\l_MT_multwidth_dim=\dimen192
+\origjot=\skip95
+\l_MT_shortvdotswithinadjustabove_dim=\dimen193
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen194
+\l_MT_above_intertext_sep=\dimen195
+\l_MT_below_intertext_sep=\dimen196
+\l_MT_above_shortintertext_sep=\dimen197
+\l_MT_below_shortintertext_sep=\dimen198
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen199
+) (c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/eukdate/eukdate.st
+y
+Package: eukdate 2009/03/18 v1.04 UK format date (Hart's Rules) with weekday
+\c@euk@date=\count422
+\c@euk@month=\count423
+\c@euk@century=\count424
+\c@euk@year=\count425
+) (c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xpatch/xpatch.sty 
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count426
+\l__pdf_internal_box=\box56
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xp
+arse.sty
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xp
+arse-2020-10-01.sty
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xp
+arse-generic.tex))))
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.st
+y
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen256
+\ar@mcellbox=\box57
+\extrarowheight=\dimen257
+\NC@list=\toks30
+\extratabsurround=\skip96
+\backup@length=\skip97
+\ar@cellbox=\box58
+)
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/multirow/multirow.st
+y
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip98
+\multirow@cntb=\count427
+\multirow@dima=\skip99
+\bigstrutjot=\dimen258
+) (c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.st
+y
+\wrapoverhang=\dimen259
+\WF@size=\dimen260
+\c@WF@wrappedlines=\count428
+\WF@box=\box59
+\WF@everypar=\toks31
+Package: wrapfig 2003/01/31  v 3.6
+) (c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count429
+\float@exts=\toks32
+\float@box=\box60
+\@float@everytoks=\toks33
+\@floatcapt=\box61
+)
+(c:/Users/whc/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.st
+y
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks34
+\minrowclearance=\skip100
+)
+
+! LaTeX Error: File `pdflscape.sty' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
@@ -972,15 +1075,15 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.154 \usepackage
-                 [no-weekday]{eukdate}^^M 
+l.287 \usepackage
+                 {tabu}^^M 
 Here is how much of TeX's memory you used:
- 21465 strings out of 480954
- 350900 string characters out of 5905582
- 828266 words of memory out of 5000000
- 38463 multiletter control sequences out of 15000+600000
+ 22730 strings out of 480954
+ 375146 string characters out of 5905582
+ 856715 words of memory out of 5000000
+ 39673 multiletter control sequences out of 15000+600000
  410662 words of font info for 31 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,0n,74p,366b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,0n,75p,366b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
